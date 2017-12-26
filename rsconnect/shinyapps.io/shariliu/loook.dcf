@@ -1,0 +1,12 @@
+name: loook
+title: loook
+username:
+account: shariliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 240018
+bundleId: 1121329
+url: https://shariliu.shinyapps.io/loook/
+when: 1512663067.66284
+asMultiple: FALSE
+asStatic: FALSE
